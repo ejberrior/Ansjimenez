@@ -1,0 +1,32 @@
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+/* Estilo de cada enlace */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px; /* Espacio de opciones */
+    font-size: 16px;
+}
+/* efecto al pasar el mouse */
+nav a:hover {
+    text-decoration: underline;
+
+}
+
+footer {
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+main img {
+    max-width: 80%;
+    height: auto;
+}
+
+body {
+    background-color: rgba(243, 6, 6, 0.678);
+}
